@@ -33,6 +33,7 @@
   ],
   "main": "./lib/passport-azure-ad-oauth2",
   "dependencies": {
+    "jsonwebtoken": "^8.4.0",
     "passport-oauth": "1.0.x"
   },
   "devDependencies": {
